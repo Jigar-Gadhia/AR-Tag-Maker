@@ -4,7 +4,7 @@ AR.js Studio is an authoring platform to build Web Augmented Reality experiences
 
 [Learn more](https://medium.com/@nicolcarpignoli/ar-js-studio-a-call-to-arms-for-the-first-open-source-web-ar-authoring-platform-a031069518f9)
 
-#Introduction
+# Introduction
 
 In this digital era, Augmented Reality, Virtual Reality and 
 Extended Reality are growing rapidly. Anyone can experiance 
